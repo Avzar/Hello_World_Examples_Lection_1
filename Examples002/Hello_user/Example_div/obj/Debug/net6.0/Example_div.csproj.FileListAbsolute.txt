@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\bin\Debug\net6.0\Example_div.exe
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\bin\Debug\net6.0\Example_div.deps.json
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\bin\Debug\net6.0\Example_div.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\bin\Debug\net6.0\Example_div.dll
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\bin\Debug\net6.0\Example_div.pdb
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.dll
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\refint\Example_div.dll
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.pdb
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\Example_div.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Examples002\Hello_user\Example_div\obj\Debug\net6.0\ref\Example_div.dll
